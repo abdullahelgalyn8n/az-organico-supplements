@@ -1,0 +1,6 @@
+{
+  "name": "أورجانيكو | Organico - مكملات عشبية ومنتجات طبيعية",
+  "description": "أورجانيكو (Organico) - متخصصون في تصنيع المكملات الغذائية العشبية، الفيتامينات، الزيوت العضوية، والعسل الطبيعي بأعلى معايير الجودة المعتمدة (ISO 22000 & GMP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
